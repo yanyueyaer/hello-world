@@ -6,4 +6,5 @@ char* strcpy(char*dst, const char *src)
 	while ((*dst ++= *src++) != '\0')；   //[2]
 		return ret;   //[3]
 }
+
 /B21090114孙靖辉/
