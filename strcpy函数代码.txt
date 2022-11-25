@@ -9,5 +9,5 @@ char* strcpy(char*dst, const char *src)
 
 /B21090114孙靖辉/
 /*
-local edit
+Local edit
 */
