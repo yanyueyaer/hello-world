@@ -6,7 +6,7 @@ char* strcpy(char*dst, const char *src)
 	while ((*dst ++= *src++) != '\0')；   //[2]
 		return ret;   //[3]
 }
-
+//1111111
 /*
 Local edit
 B21090114孙靖辉
