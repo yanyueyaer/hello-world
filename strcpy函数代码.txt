@@ -8,9 +8,8 @@ char* strcpy(char*dst, const char *src)
 }
 <<<<<<< HEAD
 //11232321
-
+//222
 /B21090114孙靖辉/
->>>>>>> parent of 230b5fd (B21090114孙靖辉)
 /*
 Local edit
 */
